@@ -1,0 +1,4 @@
+#Sun Jul 15 16:47:24 COT 2018
+base.0=C\:\\Users\\Dennis\\Documents\\GitHub2\\MOVILES\\Examen\\ExamenDennis1\\ExamenMoviles1\\AndroidApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

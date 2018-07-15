@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7cb52ce25944688da9bc135576bdd6c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\781b3f11f14d89a66a1897b44a064930\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d20d9a6bc36e36cb0b2a3d8a90ca2cdf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d1a6b4407b9340bcdfc5e1fab70c95f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.13.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\fuel-android-1.13.0.aar\16f00381e435a6ee0c9128e95a6127c7\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fb51fc834eef047024e385df3eae4725\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1134604a95550e08334ccf3fa9a77f03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9a91c7c12e8efc91360e188b12e7e31f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0b1cf586ae5d3ecd2b95d497fc9fd41c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d9bc98c00d13388e6a12b74d2132565\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bec0d84647bed269c77cf9935610e2fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ef0e01d09b05aae8b83146e936392b94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ad444e7e32b8286c693000e579d99a26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1dde6dd0ec85874e92bc9d97d7f7ff1e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2c3d58dd4632b4407062c69d1875f34c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\83207cfe9b0a530777ec88b22481f62e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f78c6abc6923c833c6b7d8acce02f9a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c44cb0f094023a61591e30ccc24af121\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:13:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d20d9a6bc36e36cb0b2a3d8a90ca2cdf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d20d9a6bc36e36cb0b2a3d8a90ca2cdf\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.jorgecarrillo.paciente_medicina.MainActivity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.jorgecarrillo.paciente_medicina.Main2Activity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.example.jorgecarrillo.paciente_medicina.MedicinaActivity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:28:19-51
+activity#com.example.jorgecarrillo.paciente_medicina.DeliveryActivity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:29:9-54
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:29:19-51
+activity#com.example.jorgecarrillo.paciente_medicina.ListActivity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:30:9-33:59
+	android:label
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:32:13-56
+	android:theme
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:31:13-41
+activity#com.example.jorgecarrillo.paciente_medicina.CreateActivity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:34:9-52
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:34:19-49
+activity#com.example.jorgecarrillo.paciente_medicina.CreateMedicinaActivity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:35:9-60
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:35:19-57
+activity#com.example.jorgecarrillo.paciente_medicina.DetailsActivity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:36:9-53
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:36:19-50
+activity#com.example.jorgecarrillo.paciente_medicina.DetailsMedicinaActivity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:37:9-61
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:37:19-58
+activity#com.example.jorgecarrillo.paciente_medicina.FindActivity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:38:19-47
+activity#com.example.jorgecarrillo.paciente_medicina.ListaMedicinaActivity
+ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:39:9-68
+	android:name
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml:39:19-56
+uses-sdk
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7cb52ce25944688da9bc135576bdd6c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7cb52ce25944688da9bc135576bdd6c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\781b3f11f14d89a66a1897b44a064930\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\781b3f11f14d89a66a1897b44a064930\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d20d9a6bc36e36cb0b2a3d8a90ca2cdf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d20d9a6bc36e36cb0b2a3d8a90ca2cdf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d1a6b4407b9340bcdfc5e1fab70c95f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d1a6b4407b9340bcdfc5e1fab70c95f6\AndroidManifest.xml:20:5-44
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.13.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\fuel-android-1.13.0.aar\16f00381e435a6ee0c9128e95a6127c7\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.13.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\fuel-android-1.13.0.aar\16f00381e435a6ee0c9128e95a6127c7\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fb51fc834eef047024e385df3eae4725\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fb51fc834eef047024e385df3eae4725\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1134604a95550e08334ccf3fa9a77f03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1134604a95550e08334ccf3fa9a77f03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9a91c7c12e8efc91360e188b12e7e31f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9a91c7c12e8efc91360e188b12e7e31f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0b1cf586ae5d3ecd2b95d497fc9fd41c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0b1cf586ae5d3ecd2b95d497fc9fd41c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d9bc98c00d13388e6a12b74d2132565\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d9bc98c00d13388e6a12b74d2132565\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bec0d84647bed269c77cf9935610e2fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bec0d84647bed269c77cf9935610e2fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ef0e01d09b05aae8b83146e936392b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ef0e01d09b05aae8b83146e936392b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ad444e7e32b8286c693000e579d99a26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ad444e7e32b8286c693000e579d99a26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1dde6dd0ec85874e92bc9d97d7f7ff1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1dde6dd0ec85874e92bc9d97d7f7ff1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2c3d58dd4632b4407062c69d1875f34c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2c3d58dd4632b4407062c69d1875f34c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\83207cfe9b0a530777ec88b22481f62e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\83207cfe9b0a530777ec88b22481f62e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f78c6abc6923c833c6b7d8acce02f9a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f78c6abc6923c833c6b7d8acce02f9a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c44cb0f094023a61591e30ccc24af121\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dennis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c44cb0f094023a61591e30ccc24af121\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dennis\Documents\GitHub2\MOVILES\Examen\ExamenDennis1\ExamenMoviles1\AndroidApp\app\src\main\AndroidManifest.xml
